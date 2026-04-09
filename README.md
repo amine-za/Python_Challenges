@@ -1,7 +1,7 @@
 # Python Challenges
 
 This repository contains Python problem-solving exercises.
-It is meant to help practice and improve Python skills from beginner to intermediate topics.
+It is meant to help practice and improve Python skills from beginner to intermediate topics, including Object-Oriented Programming (OOP).
 
 
 ## What You Will Learn
@@ -13,7 +13,11 @@ Exercises cover topics including:
 5. Lists, Tuples, Dictionaries, and Sets
 6. Loops
 7. Unpacking and Multiple Assignment
-8. Classes and Object-Oriented Programming
+8. Classes and Object-Oriented Programming (OOP)
+  - Create and use classes
+  - Understand objects and instances
+  - Apply methods and attributes
+  - Practice encapsulation, inheritance, and other OOP concepts
 
 
 ## How to Use
@@ -23,8 +27,8 @@ Exercises cover topics including:
 
 
 ## Purpose
-The goal is to improve Python fluency step by step and strengthen problem-solving skills.
-This repository is a personal collection of exercises from Python practice and learning platforms.
+The goal is to improve Python fluency step by step, strengthen problem-solving skills, and learn OOP concepts through hands-on exercises.
+This repository is a personal collection of exercises from Python learning platforms.
 
 ## License
 
